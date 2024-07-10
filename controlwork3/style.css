@@ -1,0 +1,144 @@
+body{
+    width: 1340px;
+    height: 980px;
+    top: 50px;
+    left: 55px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    }
+    .headtext{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 350px;
+    height: 48px;
+    margin-top: 92px;
+    margin-left: 122px;
+    gap: 0px;
+    opacity: 0px; 
+    }
+    .text-head{
+        font-family: 'Proxima Nova';
+        font-size: 24px;
+        font-weight: 800;
+        line-height: 29.23px;
+        letter-spacing: 0.01em;
+        text-align: left;
+        width: 300px;
+        height: 29px;
+        top: 92px;
+        left: 177px;
+        gap: 0px;
+        opacity: 0px;    
+    }
+    .text-head2{
+        font-family: 'Proxima Nova';
+        padding-top: 5px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 19.49px;
+        text-align: left;
+        width: 261px;
+        height: 19px;
+        top: 121px;
+        left: 177px;
+        gap: 0px;
+        opacity: 0px;
+        
+    }
+    .img{
+        width: 38px;
+        height: 38px;
+        top: 97px;
+        left: 122px;
+        gap: 0px;
+        opacity: 0px;
+        
+    }
+.bucket{
+    width: 547px;
+    height: 523px;
+    margin-top: 150px;
+    margin-left: 451px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 20px;
+    border: 3px solid whitesmoke;
+}
+.bucketinfo{
+    display: flex;
+    flex-direction: row;
+    width: 280px;
+    height: 39px;
+    margin: auto;
+    gap: 0px;
+    opacity: 0px;
+}
+.bucketinfotext{
+    width: 241px;
+    height: 39px;
+    margin: auto;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Proxima Nova';
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.98px;
+    letter-spacing: 0.01em;
+    text-align: left;
+        
+}
+.bucketinfoemoji{
+    width: 30px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Proxima Nova';
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 38.98px;
+    letter-spacing: 0.01em;
+    text-align: left;
+        
+}
+.bucketwarning{
+    display: flex;
+    flex-direction: column;
+    width: 547px;
+    height: 52px;
+    margin: auto;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Proxima Nova';
+font-size: 18px;
+font-weight: 400;
+line-height: 26.17px;
+letter-spacing: 0.01em;
+text-align: center;
+color: #777777;
+}
+.button{
+    width: 210px;
+    height: 46px;
+    padding-top: 20px;
+    margin: auto;
+    gap: 0px;
+    border-radius: 30px;
+    opacity: 0px;
+    background-color: #282828;
+    color: #FFFFFF;
+    font-family: 'Proxima Nova';
+font-size: 16px;
+font-weight: 700;
+line-height: 19.49px;
+letter-spacing: 0.015em;
+text-align: center;
+
+}
+.buttontext{
+padding-bottom: 20px;
+}
+.button:hover{
+background-color: #3f3f3f;
+}
